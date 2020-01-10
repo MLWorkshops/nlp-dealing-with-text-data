@@ -11,4 +11,4 @@ Through examples we will:
 7.  Extra:  Train a model
 9.  References
 
-Code and guides on dealing with text data for the Seattle Artificial Intelligence Workshops NLP series.
+Code and guides on dealing with text data for the Seattle Artificial Intelligence Workshops NLP series.  Solutions to exercises in `assets` folder in this repo.
